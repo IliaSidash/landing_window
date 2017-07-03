@@ -1,0 +1,98 @@
+.price{
+	background: url('../images/price-bg.jpeg') center top/cover no-repeat;
+	padding: 127px 0 128px;
+}
+
+.products{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin-top: 83px;
+}
+
+.productsItem{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	width: 770px;
+	align-items: center;
+	margin-bottom: 30px;
+
+	&__text{
+		margin: 0 82px 0 32px;
+		width: 270px;
+	}
+
+	&__name{
+		color: $dark;
+		font-family: $ultra;
+		font-size: 21px;
+		text-transform: uppercase;
+		margin: 11px 0 11px;
+	}
+
+	&__discriptions{
+		font-size: 16px;
+		margin-bottom: 16px;
+	}
+
+	&__line{
+		width: 84px;
+		height: 1px;
+		background: $grey;
+		margin-right: 57px;
+	}
+
+	&__price{
+		color: $blue;
+		font-size: 26px;
+		font-family: $ultra;
+	}
+}
+
+.calculate{
+	background: #fff;
+	border-radius: 3px;
+	box-shadow: 0px 16px 125px 0px rgba(35, 89, 153, 0.27),inset 0px 30000px 57px 0px rgba(248, 248, 248, 0.004);
+	width: 335px;
+	height: 439px;
+	text-align: center;
+
+	&__title{
+		text-transform: uppercase;
+		font-family: $ultra;
+		font-size: 17px;
+		padding: 46px 0 28px 0;
+		line-height: 1.529;
+
+	}
+
+	&__item{
+		font-size: 15px;
+		padding: 29px 0 22px;
+		border-top: 1px solid $lightGrey;
+	}
+
+	&__options{
+		margin: 21px 0;
+		color: $blue;
+		font-family: $bold;
+		font-size: 14px;
+		text-decoration: underline;
+		text-decoration-style: dotted;
+	}
+
+
+	&__button{
+		border-radius: 5px;
+		background: $red;
+		color: #fff;
+		font-family: $ultra;
+		font-size: 16px;
+		padding: 17px 64px;
+		text-decoration: none;
+		margin-bottom: 35px;
+
+	}
+
+}
