@@ -1,8 +1,8 @@
-[2017-07-02 23:25:19] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
-[2017-07-02 23:25:19] layer "+7 (495) 644-76-76": Expected Either a default asset specification or a layer asset specification but "+" found.
-[2017-07-02 23:25:19] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
-[2017-07-02 23:25:19] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
-[2017-07-02 23:25:19] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
-[2017-07-02 23:25:19] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
-[2017-07-02 23:25:19] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
-[2017-07-02 23:25:19] layer "Режим работы С 9 до 21 без выходных E-mail sale@plastika-okon.r": Unsupported extension: r
+[2017-07-04 16:11:23] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-07-04 16:11:23] layer "+7 (495) 644-76-76": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-07-04 16:11:23] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-07-04 16:11:23] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-07-04 16:11:23] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-07-04 16:11:23] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-07-04 16:11:23] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-07-04 16:11:23] layer "Режим работы С 9 до 21 без выходных E-mail sale@plastika-okon.r": Unsupported extension: r
