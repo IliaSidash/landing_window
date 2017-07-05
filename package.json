@@ -5,7 +5,10 @@
   },
   "author": "Ilia Sidash",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "normalize.scss": "^0.1.0"
+  },
   "devDependencies": {
     "browser-sync": "^2.18.12",
     "gulp": "github:gulpjs/gulp#4.0",
