@@ -1,5 +1,5 @@
-@import "../../node_modules/font-awesome/scss/font-awesome";
-@import "../../node_modules/normalize.scss/normalize";
+//@import "../../node_modules/font-awesome/**/*";
+//@import "../../node_modules/normalize";
 
 
 @import "global/vars";
@@ -16,3 +16,4 @@
 @import "sections/price";
 @import "sections/advantage";
 @import "sections/subscribe";
+@import "sections/footer";

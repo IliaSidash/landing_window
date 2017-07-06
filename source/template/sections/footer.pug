@@ -1,23 +1,25 @@
 footer.footer
-    .container
-        .footer__logo по
+    .container.wrap
+        a.footer__logo(href="#")
         .footer__info Информация, опубликованная на Сайте, носит общий характер и служит для ознакомительных целей, не является публичной офертой
-        h3.footer__title Адрес
-            span.footer__text г. Москва, Московская область ООО
-        h3.footer__title Телефон
-            span.footer__text +7 (495) 308-30-11
-        h3.footer__title Режим работы
-            span.footer__text С 9 до 21 без выходных
-        h3.footer__title E-mail
-            span.footer__text sale@plastika-okon.ru
+        .footer__contacts
+            .footer__contacts_top
+                h3.footer__title Адрес
+                    span.footer__text г. Москва, Московская область ООО
+                h3.footer__title Режим работы
+                    span.footer__text С 9 до 21 без выходных
+            .footer__contacts_bottom
+                h3.footer__title Телефон
+                    span.footer__text.footer__text_bottom +7 (495) 308-30-11
+                h3.footer__title E-mail
+                    span.footer__text.footer__text_bottom sale@plastika-okon.ru
         .social
-            h3.social__title давайте дружить
-            a(href="#").social__icon
-                i.fa.fa-vk(aria-hidden="true")
-            a(href="#").social__icon
-            a(href="#").social__icon
-            a(href="#").social__icon
-
-
+            h3.footer__title давайте дружить
+            ul.social__icons
+                a(href="#").social__icon
+                    i.fa.fa-vk(aria-hidden="true")
+                a(href="#").social__icon
+                a(href="#").social__icon
+                a(href="#").social__icon
 
 

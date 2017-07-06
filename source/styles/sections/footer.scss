@@ -1,0 +1,68 @@
+.footer{
+  background: #374556;
+  color: #939aa4;
+  padding: 82px 0;
+
+  &__logo{
+    @include sprite($footer-logo);
+    display: inline-block;
+    margin-right: 27px;
+  }
+
+  &__info{
+    display: inline-block;
+    width: 270px;
+    height: 57px;
+    font-size: 11px;
+    line-height: 19px;
+    vertical-align: top;
+  }
+
+  &__contacts{
+    margin-left: 90px;
+  }
+
+  &__title{
+    display: inline-block;
+    margin: 0;
+    font-family:$ultra;
+    text-transform: uppercase;
+    width: 240px;
+    &:last-child{
+      padding-left: 65px;
+    }
+
+  }
+
+  &__text{
+    margin: 14px 0 34px;
+    font-family: $regular;
+    text-transform: none;
+    display: block;
+    font-size: 13px;
+
+    &_bottom{
+      margin-bottom: 0px;
+    }
+  }
+}
+
+
+.social{
+  text-align: center;
+
+  &__icon{
+    margin-top: 14px;
+    display: inline-block;
+    width: 29px;
+    height: 29px;
+    border-radius: 50%;
+    background: #939aa4;
+    margin-right: 8px;
+
+    &:last-child{
+      margin-right: 0;
+    }
+  }
+
+}
